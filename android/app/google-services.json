@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208244942846",
+    "project_id": "goodday-357f3",
+    "storage_bucket": "goodday-357f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208244942846:android:552b151c6ecf968b62c2af",
+        "android_client_info": {
+          "package_name": "com.goodday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClmZ_9wbyTzrxWUe0DDnzEIiLFN_BMphA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

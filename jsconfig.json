@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@navigation/*": ["src/navigation/*"],            
+      "@constants/*": [
+        "src/constants/*"
+      ],      
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

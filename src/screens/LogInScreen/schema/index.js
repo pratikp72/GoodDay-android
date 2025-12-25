@@ -1,0 +1,1 @@
+export {logInValidationSchema} from './logInSchema';

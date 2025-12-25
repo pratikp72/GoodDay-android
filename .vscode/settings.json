@@ -1,0 +1,16 @@
+// .vscode/settings.json
+{
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/android": true,
+    "**/ios": true
+  },
+  "typescript.tsserver.exclude": [
+    "**/node_modules",
+    "**/android",
+    "**/ios"
+  ]
+}
